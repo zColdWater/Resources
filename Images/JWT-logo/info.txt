@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: iAWriterDuospace-Bold
+font link: https://ia.net/topics/in-search-of-the-perfect-writing-font
+font author: iA
+font author site: https://ia.net/
+
+
+icon designer: Ashia Sabbath
+icon designer link: /acsabbath
+        
+{"bg-gradient-0":"#E0302F","bg-gradient-1":"#3281DD","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
