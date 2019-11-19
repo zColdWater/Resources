@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Gondola_SD
+font link: http://www.deffeyes.com/popups/type/gondola.html
+font author: Steve Deffeyes
+font author site: http://www.deffeyes.com/
+
+
+{"bg":"transparent","icon-gradient-0":"#B41E37","icon-gradient-1":"#B89DAD","font":"#000000","slogan":"#141414"}
+      
