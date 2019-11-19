@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Lemonada-Regular
+font link: https://fonts.google.com/specimen/Lemonada
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: OCHA Visual Information Unit
+icon designer link: /ochaavmu
+        
+{"bg":"transparent","icon-gradient-0":"#122663","icon-gradient-1":"#5DD7AD","font":"#000000","slogan":"#141414"}
+      
