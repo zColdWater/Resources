@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Brawler
+font link: https://fonts.google.com/specimen/Brawler
+font author: Cyreal
+font author site: http://www.cyreal.org/
+
+
+icon designer: Hello Many
+icon designer link: /HelloMany
+        
+{"bg":"#50A6D8","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: PlaytimeOblique
+font link: https://www.fontsquirrel.com/fonts/playtime-with-hot-toddies
+font author: Graham Meade
+font author site: http://www.moorstation.org/typoasis/designers/gemnew/w01.htm
+
+
+icon designer: Michael Zenaty
+icon designer link: /kepl9r
+        
+{"bg":"transparent","icon-gradient-0":"#8D2CE3","icon-gradient-1":"#F7C6F6","font":"#000000","slogan":"#141414"}
+      

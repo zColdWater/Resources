@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OstrichSans-Heavy
+font link: https://www.fontsquirrel.com/fonts/ostrich-sans
+font author: Tyler Finck
+font author site: https://www.tylerfinck.com
+
+
+icon designer: m. turan ercan
+icon designer link: /mte
+        
+{"bg":"transparent","icon-gradient-0":"#0D2545","icon-gradient-1":"#A21F44","font":"#000000","slogan":"#141414"}
+      
