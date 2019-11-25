@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: WorkSans-Black
+font link: https://fonts.google.com/specimen/Work+Sans
+font author: Wei Huang
+font author site: 
+
+
+icon designer: Hannah Strobel
+icon designer link: /Mylillian
+        
+{"bg":"#4451D9","icon":"#31357D","font":"#ffffff","slogan":"#ffffff"}
+      
